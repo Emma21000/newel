@@ -4,19 +4,19 @@ export const data_menu = {
     logo: '/all-images/newel.jpg',
     pages: [
         {
-            title: "HOME",
+            title: "home",
             path: "/home"
         },
         {
-            title: "SERVICES",
+            title: "services",
             path: "/services"
         },
         {
-            title: "PROJECTS",
+            title: "projects",
             path: "/projects"
         },
         {
-            title: "CONTACT",
+            title: "contact",
             path: "/contact"
         },
     ],
